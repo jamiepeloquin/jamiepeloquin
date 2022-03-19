@@ -38,6 +38,7 @@ As a technology director, evangelist, and developer — I am self-tought, and ov
 	<img width="40" height="40" alt="UNIX" title="UNIX" src="img/unix-original.svg" />
 	<img width="40" height="40" alt="WebStorm" title="WebStorm" src="img/webstorm-original.svg" />
 </div>
+
 <!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamiepeloquin&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
