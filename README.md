@@ -6,7 +6,7 @@
 As a technology director, evangelist, and developer — I am self-tought, and over the years I have cultivated my tech-related skills through automation, tooling, web services and applications, education, and experimentation as compliments to my creative projects. I love to solve technical puzzles through thoughtful experimentation and and different perspectives. One of my primary drivers around learning various programming and scripting languages, and practices, has been to never let a technical problem drastically change the outcome of my vision — whether it be creative or technical in nature.
 
 - 😄 he/him
-- 🧭 I am currently working as a DevOps Enabler, in an active Director Role.
+- 🧭 I am currently looking for a DevOps Enabler role, most recently having been a Director of DevOps Enablement.
 - 📚️ I am currently reading about Art, Social Justice/Equity, Technology’s influence on culture and society.
 - 🌱 I am currently learning/exploring how art and technology can be used to further social and cultural equity.
 
